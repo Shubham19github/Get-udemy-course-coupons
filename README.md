@@ -1,7 +1,7 @@
 # Get-udemy-course-coupons
 Flask api that does web scrapping to extract udemy coupons for free courses.
 
-It uses [this](https://www.real.discount/) link to extract udemy coupons link.
+It uses **[this](https://www.real.discount/)** link to extract udemy coupons link.
 
 ### Dependencies
 - Python
@@ -15,8 +15,8 @@ It uses [this](https://www.real.discount/) link to extract udemy coupons link.
 > python app.py
 
 There are two end points:
-- /coupons/new **(For new Courses)
-- /coupons/trending **(For Trending Courses)
+- /coupons/new **(For new Courses)**
+- /coupons/trending **(For Trending Courses)**
 
 ### It returns 12 courses name and respective free udemy link
 
